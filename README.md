@@ -25,12 +25,11 @@ To apply the changes:
 
 To teardowm the resources managed here:
 
-    terraform destroy
+    terraform destroy -var-file="dev.tfvars"
 
+## What is constructed in AWS
 
-## What is constructed
-
-| Resource| Name | 
+| Name | Notes | 
 |--|--|
-|ECR Repository for containers built via Github pipelines| |
+|logactaesque-ecr-repo| ECR Repository for containers built via Github pipelines|
 | | |
