@@ -31,5 +31,5 @@ To teardowm the resources managed here:
 
 | Name | Notes | 
 |--|--|
-|logactaesque-ecr-repo| ECR Repository for containers built via Github pipelines|
+|logactaesque-dice-roller| ECR Repository for dice-roller application |
 | | |
