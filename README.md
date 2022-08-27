@@ -34,6 +34,7 @@ To teardown the resources managed here:
 ## What is constructed in AWS
 
 | Name | Resource | Notes |
-| ---- | -------- |------|
-| main | aws-vpc | VPC  |
+|------|----------|-------|
+| TBC  | TBC      | TBC   |
 
+The terraform script prints out a URL to reference the deployed service in Fargate.
